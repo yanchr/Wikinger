@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.31)  24 NOV 2023 08:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.31)  24 NOV 2023 09:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/yanickchristen/Documents/ZHAW/PM1/pumpspeicherkraftwerk/index.tex
-(/Users/yanickchristen/Documents/ZHAW/PM1/pumpspeicherkraftwerk/index.tex
+**/Users/yanickchristen/Documents/ZHAW/Wikinger/pumpspeicherkraftwerk/index.tex
+(/Users/yanickchristen/Documents/ZHAW/Wikinger/pumpspeicherkraftwerk/index.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -86,33 +86,56 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 9.
-<images//delte_me_1.jpeg, id=1, 602.25pt x 602.25pt>
-File: images//delte_me_1.jpeg Graphic file (type jpg)
-<use images//delte_me_1.jpeg>
-Package pdftex.def Info: images//delte_me_1.jpeg  used on input line 15.
-(pdftex.def)             Requested size: 292.5pt x 292.51361pt.
+
+
+/Users/yanickchristen/Documents/ZHAW/Wikinger/pumpspeicherkraftwerk/index.tex:15: LaTeX Error: File `delte_me_1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...graphics[width=0.75\textwidth]{delte_me_1}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 21.
- [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2 <./images//delte_me_1.jpeg>] (./index.aux) ) 
+LaTeX Warning: Reference `fig:delte_me_11' on page 1 undefined on input line 22.
+
+
+LaTeX Warning: Reference `fig:delte_me_11' on page 1 undefined on input line 22.
+
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./index.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1332 strings out of 476025
- 22280 string characters out of 5790016
+ 1353 strings out of 476025
+ 22540 string characters out of 5790016
  1852388 words of memory out of 5000000
- 21813 multiletter control sequences out of 15000+600000
+ 21826 multiletter control sequences out of 15000+600000
  517575 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,62p,303b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,62p,308b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on index.pdf (2 pages, 181190 bytes).
+Output written on index.pdf (1 page, 76408 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
